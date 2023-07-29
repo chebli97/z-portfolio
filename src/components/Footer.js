@@ -9,7 +9,7 @@ const Footer = () => {
 
         </div>
       <FooterContent>
-        <FooterText>© ∞. Maded with mush 💕</FooterText>
+        <FooterText>© ∞. Made with much 💕</FooterText>
         <img src={flowers} alt="" />
       </FooterContent>
     </FooterContainer>
